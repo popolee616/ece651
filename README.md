@@ -8,3 +8,11 @@ Project: android+python+flask
 2. client:
     android studio
 
+3. Run server;
+
+    change parameters of ULR method in client code according your server ip address;
+
+    run client;
+
+    hit the button to change textView.
+
